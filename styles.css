@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .container {
-	border-radius: "10px"
+	border-radius: 10px
 }
 
 .green, .yellow, .red{
-	border-radius: "50%"
+	border-radius: 50%
 }
 
 .red{
