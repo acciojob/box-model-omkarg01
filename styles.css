@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.container {
+	border-radius: "10px"
+}
+
+.green, .yellow, .red{
+	border-radius: "50%"
+}
+
+.red{
+	background-color: red
+}
+
+.yellow {
+	background-color: yellow
+}
+
+.red {
+	background-color: red
+}
+
